@@ -1,6 +1,5 @@
 # -Give-Life-Predict-Blood-Donations
 Build a binary classifier to predict if a blood donor is likely to donate again.
-![image](https://user-images.githubusercontent.com/90421922/204656969-58d65be0-005a-4fa3-a262-4797b4e5e7e2.png)
 
 #Project Description
 
